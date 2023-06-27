@@ -1,5 +1,7 @@
 package q2236;
 
+import tree.TreeNode;
+
 public class CheckTree {
 
     public boolean checkTree(TreeNode root) {
