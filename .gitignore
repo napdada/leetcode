@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# 字节码
+*.class
+
+# IDEA
+*.jar
+*.iml
+*.log
+*.properties
+.idea
