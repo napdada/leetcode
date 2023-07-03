@@ -5,7 +5,7 @@ public class ListNode {
 
     public ListNode next;
 
-    ListNode() {
+    public ListNode() {
 
     }
 
